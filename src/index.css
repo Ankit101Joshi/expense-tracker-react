@@ -4,3 +4,7 @@ body{
     color: #ffff;
 }
 
+table, tr, td, thead, tbody, tfoot{
+    color: #ffff
+}
+
